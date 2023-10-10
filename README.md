@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @osvnts
+- 👀 I’m interested in computer graphics
+- 🌱 I’m currently learning c++
+- 📫 How to reach me korxbi@proton.me
